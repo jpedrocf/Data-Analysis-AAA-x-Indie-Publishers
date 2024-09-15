@@ -56,7 +56,7 @@ By comparing AAA and Indie publishers, this research aims to highlight the diver
 
 **Revenue:** Revenue in Indie games shows only moderate correlation with copies sold and price, reflecting that other factors beyond these two variables may influence financial performance, such as niche appeal or market positioning. Key strategies that contribute to Indie game revenue include: Direct Sales and Digital Distribution, Post-Launch Monetization, Crowdfunding, Licensing and Merchandising, Events and Trade Shows, Partnerships and Advertising, Subscriptions and Service Models. These strategies collectively enhance the financial performance of Indie games, providing diverse revenue streams beyond just direct sales and pricing.
 
-**Average Playtime and Review Score:** There is a notable correlation between average playtime and review score, suggesting that longer Indie games tend to receive better reviews. However, these scores do not significantly impact revenue or copies sold, indicating that positive player engagement does not necessarily translate to higher sales figures.
+**Average Playtime and Review Score:** There is a notable correlation between average playtime and review score, suggesting that longer or circular Indie games tend to receive better reviews. However, these scores do not significantly impact revenue or copies sold, indicating that positive player engagement does not necessarily translate to higher sales figures.
 
 ## **Comparative Insights**  
 **Impact of Release Date:** Release date plays a more significant role in Indie games, where timing can influence sales, unlike in AAA titles where established brands mitigate this effect.
