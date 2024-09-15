@@ -29,6 +29,10 @@ Indie games have gained popularity thanks to digital platforms like Steam, which
 
 By comparing AAA and Indie publishers, this research aims to highlight the diverse approaches to game development and publishing, showcasing how these different sectors of the industry cater to varied audiences with distinct expectations.
 
+# Heatmaps 
+![image](https://github.com/user-attachments/assets/4180a4e9-1c0d-4297-8ee4-e7426f4f5e0d)
+
+![image](https://github.com/user-attachments/assets/d2075125-12da-4396-b741-8705692eb605)
 
 ## **Correlation Heatmap Indie**  
 **Release Date:** Indie games show a stronger correlation of release date with other variables, particularly with copies sold, suggesting that the timing of a game’s release may impact its sales performance more significantly in the Indie market.
