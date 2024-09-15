@@ -2,11 +2,13 @@
 
 This postgraduate research aims to conduct a comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), and the names of developers and publishers.
 
+The dataset contains 52 AAA games and 1,301 Indie games, highlighting a significant trend in the gaming market: a much greater presence and accessibility for smaller developers. This imbalance reflects how the market has become more open to Indie developers, facilitated by platforms like Steam that lower the barriers to entry. Factors such as smaller team sizes, reduced development time, and increased demand for innovative, unique experiences contribute to this shift, enabling Indie games to thrive alongside traditional AAA titles.
+
 The study will graphically represent the main differences between AAA and Indie publishers, examining market trends, sales performance, audience appeal, and critical reception within this specific timeframe. By focusing solely on Steam data, the research will provide insights into how these games perform on one of the largest digital distribution platforms for PC gaming.
 
 Graphical analysis will highlight trends in revenue, pricing, review scores, and playtime, showing how AAA and Indie publishers differ in their approaches to engaging the Steam audience. The study will also explore the effectiveness of various publishing strategies on Steam, such as the impact of early access, community engagement, and platform-specific promotions.
 
-This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success.
+This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
 
 
 ## What are AAA and Indie Publishers?
