@@ -7,7 +7,7 @@ The dataset contains 52 AAA games and 1,301 Indie games, highlighting a signific
 
 _AAA Game - Monster Hunter_
 
-<img src="https://media.giphy.com/media/cWZx38y3V92KsLReZz/giphy.gif" alt="Monster Hunter World">
+<img src="https://media.giphy.com/media/j6019ZJotf4wV1DLsb/giphy.gif" alt="Monster Hunter Sunbreak Velkhana">
 
 
 _Indie Game - Dave the Diver_
