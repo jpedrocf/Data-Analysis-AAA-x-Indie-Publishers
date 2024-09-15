@@ -72,3 +72,14 @@ Overall, the heatmaps underscore the differing market dynamics between AAA and I
 
 ![image](https://github.com/user-attachments/assets/450e948d-870e-40c7-8261-a8181e18d016)
 
+From the boxplot comparing review scores between AAA and Indie publisher classes, we can draw the following conclusions:
+
+Median Review Scores: Both AAA and Indie games have similar median review scores, suggesting that on average, both types of publishers produce games with comparable quality in terms of reviews.
+
+Score Distribution: The review scores for AAA games are slightly more concentrated, showing less variability compared to Indie games. This indicates that AAA games tend to maintain a consistent level of quality in reviews.
+
+Presence of Outliers: Indie games display a significant number of lower outliers, suggesting a wider range of quality among Indie games, with some games receiving notably lower review scores. This high variability is largely due to the accessibility of platforms like Steam, which allows a vast array of Indie games to be published, including those with lower quality or niche appeal that may not perform as well in reviews. In contrast, AAA games have fewer but more targeted releases, driven by significant investment, larger teams, and strategic planning, resulting in more consistent and higher-quality outputs.
+
+Overall Spread: The overall spread (interquartile range) of review scores is slightly wider for Indie games, reinforcing the idea that there is more variability in the quality of games produced by Indie publishers.
+
+High-End Performance: Both classes have games reaching high review scores close to 100, showing that both AAA and Indie publishers are capable of producing top-tier games in terms of player satisfaction and review scores.
