@@ -1,12 +1,12 @@
-## Comparative Analysis of AAA and Indie Game Publishers for 2024 Releases
+## Comparative Analysis of AAA and Indie Game Publishers on Steam for 2024 Releases
 
-This postgraduate research aims to conduct a comparative analysis between AAA and Indie game publishers using data from games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes key variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), and the names of developers and publishers.
+This postgraduate research aims to conduct a comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), and the names of developers and publishers.
 
-The study will focus on graphically representing the main differences between AAA and Indie publishers, examining market trends, sales performance, audience appeal, and critical reception within this specific timeframe. By leveraging data solely from 2024 releases, the research aims to capture the latest industry dynamics, highlighting how recent market trends affect both AAA and Indie game success.
+The study will graphically represent the main differences between AAA and Indie publishers, examining market trends, sales performance, audience appeal, and critical reception within this specific timeframe. By focusing solely on Steam data, the research will provide insights into how these games perform on one of the largest digital distribution platforms for PC gaming.
 
-Graphical analysis will visualize differences in average revenue, review scores, and pricing strategies between the two types of publishers. The study will also investigate correlations between playtime, release timing, and sales performance, providing insights into the effectiveness of different publishing strategies in the current market landscape.
+Graphical analysis will highlight trends in revenue, pricing, review scores, and playtime, showing how AAA and Indie publishers differ in their approaches to engaging the Steam audience. The study will also explore the effectiveness of various publishing strategies on Steam, such as the impact of early access, community engagement, and platform-specific promotions.
 
-This approach will offer a timely and focused view of how AAA and Indie publishers are navigating the 2024 gaming market, illustrating the distinct paths these sectors take to engage audiences and achieve commercial success.
+This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success.
 
 
 1
