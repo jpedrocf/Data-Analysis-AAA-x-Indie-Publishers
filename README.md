@@ -79,15 +79,15 @@ This variation in quality is clearly illustrated in the boxplot below, which com
 
 The data visualization in the boxplot illustrates these dynamics clearly:
 
-Median Review Scores: The median review scores for both AAA and Indie games are quite similar, suggesting that, on average, both types of publishers can produce games that resonate well with players and critics alike.
+**Median Review Scores**: The median review scores for both AAA and Indie games are quite similar, suggesting that, on average, both types of publishers can produce games that resonate well with players and critics alike.
 
-Score Distribution: AAA games tend to have a more concentrated range of review scores, showing less variability compared to Indie games. This consistency is a testament to the controlled, deliberate nature of AAA releases, where substantial resources are directed towards ensuring a polished final product.
+**Score Distribution**: AAA games tend to have a more concentrated range of review scores, showing less variability compared to Indie games. This consistency is a testament to the controlled, deliberate nature of AAA releases, where substantial resources are directed towards ensuring a polished final product.
 
-Presence of Outliers: In the boxplot, Indie games display a significant number of lower outliers, indicating a broader range of quality. This high variability is largely attributed to the sheer volume of Indie games available on platforms like Steam. The ease of entry for Indie developers allows for a diverse array of games, but this also means that titles with lower production values or niche appeal are common. Conversely, AAA publishers release fewer games but with a more targeted approach, resulting in fewer lower-scoring outliers.
+**Presence of Outliers**: In the boxplot, Indie games display a significant number of lower outliers, indicating a broader range of quality. This high variability is largely attributed to the sheer volume of Indie games available on platforms like Steam. The ease of entry for Indie developers allows for a diverse array of games, but this also means that titles with lower production values or niche appeal are common. Conversely, AAA publishers release fewer games but with a more targeted approach, resulting in fewer lower-scoring outliers.
 
-Overall Spread: The wider spread of review scores among Indie games further underscores the diverse nature of this category. While some Indie games achieve top-tier scores, many also fall into lower ranges, reflecting the variability in production values and audience reception.
+**Overall Spread**: The wider spread of review scores among Indie games further underscores the diverse nature of this category. While some Indie games achieve top-tier scores, many also fall into lower ranges, reflecting the variability in production values and audience reception.
 
-High-End Performance: Despite these differences, both AAA and Indie games have the potential to reach high review scores close to 100. This demonstrates that regardless of the scale of production, both types of publishers are capable of delivering standout games that captivate players.
+**High-End Performance**: Despite these differences, both AAA and Indie games have the potential to reach high review scores close to 100. This demonstrates that regardless of the scale of production, both types of publishers are capable of delivering standout games that captivate players.
 
 This analysis of review scores between AAA and Indie games highlights the strengths and challenges of each publishing model, with the boxplot serving as a visual representation of the contrasting levels of consistency and variability inherent to each category.
 
