@@ -1,4 +1,4 @@
-## Comparative Analysis of AAA and Indie Game Publishers on Steam for 2024 Releases
+# Comparative Analysis of AAA and Indie Game Publishers on Steam for 2024 Releases
 
 This postgraduate research aims to conduct a comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), and the names of developers and publishers.
 
@@ -9,36 +9,22 @@ Graphical analysis will highlight trends in revenue, pricing, review scores, and
 This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success.
 
 
-1
-<img src="https://github.com/user-attachments/assets/5500cc5e-51ea-4bfc-94a2-9cb810a99eef" alt="Steam Store">
-2
+## What are AAA and Indie Publishers?
+
+### AAA Publishers
+AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, and sometimes mobile, aiming to reach a broad, global audience.
+
+<img src="https://media.giphy.com/media/7WfjbOXzDqkzixUPIp/giphy.gif" alt="Ubisoft Forward">
+
+AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development, and leveraging popular genres like first-person shooters, sports games, and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
+
+### Indie Publishers
+Indie publishers, on the other hand, are smaller, independent companies or even individual developers who create games without the backing of major financial resources. Indie games are known for their creativity, unique gameplay mechanics, and willingness to explore unconventional themes. Unlike AAA games, Indie titles are usually developed with much smaller budgets and smaller teams, often resulting in more experimental and innovative gameplay experiences.
+
 <img src="https://media.giphy.com/media/FLbIyZXtv31xo1aJXO/giphy.gif" alt="DigiPen Game Dev GIF">
-3
-<img src="https://media.giphy.com/media/komBYWfUANOlDXkzCO/giphy.gif" alt="Dead Static Drive GIF">
-6
-<img src="https://media.giphy.com/media/easKJOqFnx6kKNEIVa/giphy.gif" alt="Isles of Limbo GIF">
 
-<img src="https://media.giphy.com/media/kPcCObcr1lyLa56Cfk/giphy.gif" alt="Game Art Action GIF">
-9
-<img src="https://media.giphy.com/media/mhXkWYQBTSAhX3zTEK/giphy.gif" alt="Loop Steam GIF">
-11
-<img src="https://media.giphy.com/media/gJlr0Fi0ULOGURcE7y/giphy.gif" alt="Dead Static Drive GIF">
-13
-<img src="https://media.giphy.com/media/yIzIjUwSIdMdZFclZq/giphy.gif" alt="Blasphemous 2 GIF">
-14
-<img src="https://media.giphy.com/media/RD8skH72jRPiOCAL8M/giphy.gif" alt="Xbox Series X|S GIF">
-15
-<img src="https://media.giphy.com/media/jpnqoxtSTvKMlpct9y/giphy.gif" alt="Stray GIF">
-1
-<img src="https://media.giphy.com/media/hqTguNdEoA1ooYxeog/giphy.gif" alt="Dog FaZe Clan">
-2
-<img src="https://media.giphy.com/media/uhFWQQIc8HBfgNQXZ9/giphy.gif" alt="Metro Exodus Xbox">
-3
-<img src="https://media.giphy.com/media/vYr9KOal1Jjfxh7yuh/giphy.gif" alt="Xbox Series X Game">
-4
-<img src="https://media.giphy.com/media/odimv9MG1zojM1uWKa/giphy.gif" alt="Xbox Series X Game 2">
-5
-<img src="https://media.giphy.com/media/SFQQFj1HE5DqRwEkw4/giphy.gif" alt="Xbox Series X Game 3">
+Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media, and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
+By comparing AAA and Indie publishers, this research aims to highlight the diverse approaches to game development and publishing, showcasing how these different sectors of the industry cater to varied audiences with distinct expectations.
 
 
