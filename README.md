@@ -29,4 +29,16 @@ This approach will offer a timely snapshot of the 2024 gaming market on Steam, i
 <img src="https://media.giphy.com/media/RD8skH72jRPiOCAL8M/giphy.gif" alt="Xbox Series X|S GIF">
 15
 <img src="https://media.giphy.com/media/jpnqoxtSTvKMlpct9y/giphy.gif" alt="Stray GIF">
+1
+<img src="https://media.giphy.com/media/hqTguNdEoA1ooYxeog/giphy.gif" alt="Dog FaZe Clan">
+2
+<img src="https://media.giphy.com/media/uhFWQQIc8HBfgNQXZ9/giphy.gif" alt="Metro Exodus Xbox">
+3
+<img src="https://media.giphy.com/media/vYr9KOal1Jjfxh7yuh/giphy.gif" alt="Xbox Series X Game">
+4
+<img src="https://media.giphy.com/media/odimv9MG1zojM1uWKa/giphy.gif" alt="Xbox Series X Game 2">
+5
+<img src="https://media.giphy.com/media/SFQQFj1HE5DqRwEkw4/giphy.gif" alt="Xbox Series X Game 3">
+
+
 
