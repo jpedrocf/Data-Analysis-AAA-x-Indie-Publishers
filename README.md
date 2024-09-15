@@ -5,9 +5,9 @@ This research aims to conduct a comparative analysis between AAA and Indie game 
 The dataset contains 52 AAA games and 1,301 Indie games, highlighting a significant trend in the gaming market: a much greater presence and accessibility for smaller developers. This imbalance reflects how the market has become more open to Indie developers, facilitated by platforms like Steam that lower the barriers to entry. Factors such as smaller team sizes, reduced development time, and increased demand for innovative, unique experiences contribute to this shift, enabling Indie games to thrive alongside traditional AAA titles.
 
 
-_AAA Game - Assassins Creed_
+_AAA Game - Monster Hunter_
 
-<img src="https://media.giphy.com/media/Bo1ANacJUMKi1S4ath/giphy.gif" alt="Ubisoft Forward">
+<img src="https://media.giphy.com/media/cWZx38y3V92KsLReZz/giphy.gif" alt="Monster Hunter World">
 
 
 _Indie Game - Dave the Diver_
