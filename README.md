@@ -66,3 +66,9 @@ By comparing AAA and Indie publishers, this research aims to highlight the diver
 **Engagement and Reviews:** Both segments show positive correlations between average playtime and review scores, but the impact on revenue and sales is more pronounced in AAA games. This indicates that while both AAA and Indie games benefit from positive player engagement, AAA titles can leverage good reviews more effectively for financial gain.
 
 Overall, the heatmaps underscore the differing market dynamics between AAA and Indie games, with AAA titles relying heavily on sales volume and pricing, while Indie games navigate a more complex landscape of timing, pricing, and player engagement.
+
+# Boxplot
+
+
+![image](https://github.com/user-attachments/assets/450e948d-870e-40c7-8261-a8181e18d016)
+
