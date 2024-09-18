@@ -106,7 +106,7 @@ The data visualization in the boxplot illustrates these dynamics clearly:
 This analysis of review scores between AAA and Indie games highlights the strengths and challenges of each publishing model, with the boxplot serving as a visual representation of the contrasting levels of consistency and variability inherent to each category.
 
 
-![Distribution Graphic](https://github.com/user-attachments/assets/3ea20748-efcc-4bd7-9e1e-8bb371757adc)
+![Distribution Graphic](https://github.com/user-attachments/assets/d4453471-ab7a-4703-98ff-6e70ffca3028)
 
 
 
