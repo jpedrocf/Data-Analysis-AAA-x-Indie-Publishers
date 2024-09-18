@@ -2,7 +2,8 @@
 
 This research aims to conduct a comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), and the names of developers and publishers.
 
-The dataset contains 52 AAA games and 1,301 Indie games, highlighting a significant trend in the gaming market: a much greater presence and accessibility for smaller developers. This imbalance reflects how the market has become more open to Indie developers, facilitated by platforms like Steam that lower the barriers to entry. Factors such as smaller team sizes, reduced development time, and increased demand for innovative, unique experiences contribute to this shift, enabling Indie games to thrive alongside traditional AAA titles.
+
+![Distribution Publisher](https://github.com/user-attachments/assets/52cccfdc-e48c-4843-a06c-d6969cea8547)
 
 
 _AAA Game - Monster Hunter_
@@ -105,8 +106,6 @@ The data visualization in the boxplot illustrates these dynamics clearly:
 
 This analysis of review scores between AAA and Indie games highlights the strengths and challenges of each publishing model, with the boxplot serving as a visual representation of the contrasting levels of consistency and variability inherent to each category.
 
-
-![Distribution Graphic](https://github.com/user-attachments/assets/d4453471-ab7a-4703-98ff-6e70ffca3028)
 
 
 
