@@ -105,7 +105,8 @@ The data visualization in the boxplot illustrates these dynamics clearly:
 
 This analysis of review scores between AAA and Indie games highlights the strengths and challenges of each publishing model, with the boxplot serving as a visual representation of the contrasting levels of consistency and variability inherent to each category.
 
-![Uploading In 2024, the dominance of indie publishers in the gaming industry was striking, with only 4 out of every 100 games released being from AAA studios. This leaves the vast majority—96%—to indie devel (1).png…]()
+
+![Distribution Graphic](https://github.com/user-attachments/assets/3ea20748-efcc-4bd7-9e1e-8bb371757adc)
 
 
 
