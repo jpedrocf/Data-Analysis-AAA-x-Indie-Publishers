@@ -36,11 +36,7 @@ Indie games have gained popularity thanks to digital platforms like Steam, which
 The following chart highlights the significant difference in the number of releases between AAA and Indie games in 2024, showing that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
 
 
-![Distribution Publisher](https://github.com/user-attachments/assets/f81087bf-a92d-41ed-b428-8b98897de414)
-
-
-
-
+![Distribution Publisher](https://github.com/user-attachments/assets/8101d8c4-1be1-4acb-a5be-975a0a8aa7b8)
 
 
 
