@@ -6,7 +6,7 @@ The study will graphically represent the main differences between AAA and Indie 
 
 Graphical analysis will highlight trends in revenue, pricing, review scores, and playtime, showing how AAA and Indie publishers differ in their approaches to engaging the Steam audience.
 
-This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
+This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how these publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
 
 
 
