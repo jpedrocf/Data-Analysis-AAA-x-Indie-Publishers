@@ -13,14 +13,14 @@ This approach will offer a timely snapshot of the 2024 gaming market on Steam, i
 ## But what are AAA and Indie Publishers?
 
 ### AAA Publishers
-AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, and sometimes mobile, aiming to reach a broad, global audience.
+AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, sometimes mobile, aiming to reach a broad, global audience.
 
 
 <img src="https://media.giphy.com/media/7WfjbOXzDqkzixUPIp/giphy.gif" alt="Ubisoft Forward">
 
 _AAA Game - Star Wars Outlaws_
 
-AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development, and leveraging popular genres like first-person shooters, sports games, and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
+AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games, and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
 
 ### Indie Publishers
 Indie publishers, on the other hand, are smaller, independent companies or even individual developers who create games without the backing of major financial resources. Indie games are known for their creativity, unique gameplay mechanics, and willingness to explore unconventional themes. Unlike AAA games, Indie titles are usually developed with much smaller budgets and smaller teams, often resulting in more experimental and innovative gameplay experiences.
@@ -30,7 +30,7 @@ Indie publishers, on the other hand, are smaller, independent companies or even 
 
 _Indie Game - Nohra_
 
-Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media, and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
+Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
 
 The following chart highlights the significant difference in the number of releases between AAA and Indie games in 2024, showing that 96% of released games are developed by Indie studios, while only 4% come from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
