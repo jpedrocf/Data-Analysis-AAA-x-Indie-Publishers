@@ -3,17 +3,8 @@
 This research aims to conduct a comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), and the names of developers and publishers.
 
 
-![Distribution Publisher](https://github.com/user-attachments/assets/52cccfdc-e48c-4843-a06c-d6969cea8547)
+![Distribution Publisher](https://github.com/user-attachments/assets/764f7ee7-2ed7-4a3c-a7ac-8936a859c31e)
 
-
-_AAA Game - Monster Hunter_
-
-<img src="https://media.giphy.com/media/j6019ZJotf4wV1DLsb/giphy.gif" alt="Monster Hunter Sunbreak Velkhana">
-
-
-_Indie Game - Dave the Diver_
-
-<img src="https://media.giphy.com/media/biKlyP98sCwG2JwZos/giphy.gif" alt="Dave the Diver">
 
 The study will graphically represent the main differences between AAA and Indie publishers, examining market trends, sales performance, audience appeal, and critical reception within this specific timeframe. By focusing solely on Steam data, the research will provide insights into how these games perform on one of the largest digital distribution platforms for PC gaming.
 
@@ -29,15 +20,20 @@ This approach will offer a timely snapshot of the 2024 gaming market on Steam, i
 ### AAA Publishers
 AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, and sometimes mobile, aiming to reach a broad, global audience.
 
+
 <img src="https://media.giphy.com/media/7WfjbOXzDqkzixUPIp/giphy.gif" alt="Ubisoft Forward">
+
+_AAA Game - Star Wars Outlaws_
 
 AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development, and leveraging popular genres like first-person shooters, sports games, and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
 
 ### Indie Publishers
 Indie publishers, on the other hand, are smaller, independent companies or even individual developers who create games without the backing of major financial resources. Indie games are known for their creativity, unique gameplay mechanics, and willingness to explore unconventional themes. Unlike AAA games, Indie titles are usually developed with much smaller budgets and smaller teams, often resulting in more experimental and innovative gameplay experiences.
 
+
 <img src="https://media.giphy.com/media/FLbIyZXtv31xo1aJXO/giphy.gif" alt="DigiPen Game Dev GIF">
 
+_Indie Game - Nohra_
 
 Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media, and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
