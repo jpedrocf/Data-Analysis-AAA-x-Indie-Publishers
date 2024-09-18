@@ -8,14 +8,12 @@ This research aims to conduct a comparative analysis between AAA and Indie game 
 
 The study will graphically represent the main differences between AAA and Indie publishers, examining market trends, sales performance, audience appeal, and critical reception within this specific timeframe. By focusing solely on Steam data, the research will provide insights into how these games perform on one of the largest digital distribution platforms for PC gaming.
 
-Graphical analysis will highlight trends in revenue, pricing, review scores, and playtime, showing how AAA and Indie publishers differ in their approaches to engaging the Steam audience. The study will also explore the effectiveness of various publishing strategies on Steam, such as the impact of early access, community engagement, and platform-specific promotions.
+Graphical analysis will highlight trends in revenue, pricing, review scores, and playtime, showing how AAA and Indie publishers differ in their approaches to engaging the Steam audience.
 
 This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
 
 
-
-
-## What are AAA and Indie Publishers?
+## But what are AAA and Indie Publishers?
 
 ### AAA Publishers
 AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, and sometimes mobile, aiming to reach a broad, global audience.
