@@ -9,7 +9,6 @@ Graphical analysis will highlight trends in revenue, pricing, review scores, and
 This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how AAA and Indie publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
 
 
-![Distribution Publisher](https://github.com/user-attachments/assets/764f7ee7-2ed7-4a3c-a7ac-8936a859c31e)
 
 ## But what are AAA and Indie Publishers?
 
@@ -34,7 +33,25 @@ _Indie Game - Nohra_
 Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media, and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
 
-By comparing AAA and Indie publishers, this research aims to highlight the diverse approaches to game development and publishing, showcasing how these different sectors of the industry cater to varied audiences with distinct expectations.
+
+
+
+
+## 
+![Distribution Publisher](https://github.com/user-attachments/assets/e67c4c4f-cbe8-4150-9538-991b1a7bfe53)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Heatmaps 
 
