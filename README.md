@@ -45,13 +45,13 @@ Despite the overwhelming number of Indie game releases in 2024, AAA titles conti
 
 
 
-![Revenue - all data](https://github.com/user-attachments/assets/ac12c653-0e8b-486e-bfc0-d834f99a010a)
+![Revenue - all data](https://github.com/user-attachments/assets/159e863d-ad83-46b3-9eea-21a63f7710f1)
 
 
 The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. Wukong, a standout AAA title (with a revenue over $830 million), single-handedly generates almost as much as the entire Indie market. This showcases just how formidable the financial muscle of AAA studios is. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when visualized. In the next chart, you'll see how the Indie "monster" appears much smaller compared to the sheer scale of AAA revenue, especially when focusing on just the top five games from each category. The difference is staggering, with the AAA giant towering over its Indie counterpart.
 
 
-![Revenue - top 5](https://github.com/user-attachments/assets/8c0ed235-0315-4d8d-80fb-5f1f529183a7)
+![Revenue - top 5](https://github.com/user-attachments/assets/e4bd6c83-5808-4d43-a181-9d71e5eb3e6e)
 
 
 
