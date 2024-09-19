@@ -42,11 +42,9 @@ The following chart highlights the significant difference in the number of relea
 # Revenue Performance
 
 
-![Revenue - all data](https://github.com/user-attachments/assets/8f9c2602-529c-4a65-8e38-25ab2f88380b)
+![Revenue - all data](https://github.com/user-attachments/assets/ac12c653-0e8b-486e-bfc0-d834f99a010a)
 
-![Revenue - top 5](https://github.com/user-attachments/assets/5dd11507-65d0-40af-8880-a808fd8c5d00)
-
-
+![Revenue - top 5](https://github.com/user-attachments/assets/a423b4b7-bf25-4158-ba3f-49ac3a8d3426)
 
 
 
