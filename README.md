@@ -40,8 +40,6 @@ The following chart highlights the significant difference in the number of relea
 
 
 
-
-
 # Revenue Performance
 
 Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to be the monster of the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their total revenue, approximately $1.5 billion, remains almost double that of Indie games, approximately $880 million. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games.
@@ -61,7 +59,14 @@ Continuing with the revenue performance analysis, a fascinating trend emerges wh
 ![scatter plot - Indie (price revenue)](https://github.com/user-attachments/assets/5e8c6bfc-9ca8-47cc-967e-71dafa7bcfd4)
 
 
+# Release Strategy
 
+AAA games are often strategically released during key moments of the year to maximize their impact and revenue potential. One common approach is to align game releases with major holiday seasons, such as the end-of-year holiday rush, when consumer spending peaks. Additionally, AAA publishers frequently time their game launches to coincide with the release of related media, such as movies or TV series within the same franchise. For example, a Star Wars game might be launched shortly after a movie or series premieres on Disney+, capitalizing on the renewed interest in the franchise.
+
+Another important aspect of AAA release strategy is tying launches to major gaming conventions and events. Announcing a game during large-scale events like E3, Gamescom, or The Game Awards generates significant buzz, and releasing the game soon after these announcements keeps the momentum going. These carefully timed releases help AAA publishers generate massive waves of attention, driving immediate sales and engagement.
+
+![gamescom](https://github.com/user-attachments/assets/2e3997ae-5b80-489d-a0af-10aac344e48a)
+_Gamescom 2024_
 
 # Heatmaps 
 
