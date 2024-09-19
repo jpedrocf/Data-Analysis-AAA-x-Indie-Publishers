@@ -55,6 +55,10 @@ The disparity becomes even more monstrous when we compare only the top five high
 
 ![Revenue - top 5](https://github.com/user-attachments/assets/e4bd6c83-5808-4d43-a181-9d71e5eb3e6e)
 
+Continuing with the revenue performance analysis, a fascinating trend emerges when we examine the relationship between game price and revenue for both Indie and AAA titles. In the scatter plot below, each point represents a game’s price and its corresponding revenue. Excluding two significant outliers— Black Myth: Wukong and HELLDIVERS 2 — a clear pattern emerges: lower-priced games tend to cluster around lower revenue, while higher-priced titles generally generate more substantial returns. However, the highest-earning Indie game, Once Human, is a free-to-play title, demonstrating how alternative monetization strategies can lead to substantial revenue without an upfront cost.
+
+![scatter plot - AAA (price revenue)](https://github.com/user-attachments/assets/4eecc04d-025e-44bf-842e-755529c19ced)
+![scatter plot - Indie (price revenue)](https://github.com/user-attachments/assets/5e8c6bfc-9ca8-47cc-967e-71dafa7bcfd4)
 
 
 
