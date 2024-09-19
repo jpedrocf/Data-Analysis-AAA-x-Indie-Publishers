@@ -41,7 +41,9 @@ The following chart highlights the significant difference in the number of relea
 
 # Revenue Performance
 
-Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to be the monster of the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their revenue remains almost double that of Indie games. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games.
+Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to be the monster of the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their total revenue, approximately $1.5 billion, remains almost double that of Indie games, approximately $880 million. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games.
+
+
 
 ![Revenue - all data](https://github.com/user-attachments/assets/ac12c653-0e8b-486e-bfc0-d834f99a010a)
 
