@@ -39,7 +39,12 @@ The following chart highlights the significant difference in the number of relea
 ![Distribution Publisher](https://github.com/user-attachments/assets/8101d8c4-1be1-4acb-a5be-975a0a8aa7b8)
 
 
+# Revenue Performance
 
+
+![Revenue - all data](https://github.com/user-attachments/assets/8f9c2602-529c-4a65-8e38-25ab2f88380b)
+
+![Revenue - top 5](https://github.com/user-attachments/assets/5dd11507-65d0-40af-8880-a808fd8c5d00)
 
 
 
