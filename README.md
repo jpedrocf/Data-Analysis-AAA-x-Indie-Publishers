@@ -46,14 +46,13 @@ The following chart highlights the significant difference in the number of relea
 
 Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to be the monster of the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their total revenue, approximately $1.5 billion, remains almost double that of Indie games, approximately $880 million. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games.
 
-![Revenue - all data](https://github.com/user-attachments/assets/4c7c48df-653c-4a8b-ba81-c89c87851074)
-
+![Revenue - all data](https://github.com/user-attachments/assets/15be6782-57c4-4083-a20a-fa0351d168ae)
 
 
 The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. Wukong, a standout AAA title (with a revenue over $830 million), single-handedly generates almost as much as the entire Indie market. This showcases just how formidable the financial muscle of AAA studios is. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when visualized. In the next chart, you'll see how the Indie "monster" appears much smaller compared to the sheer scale of AAA revenue, especially when focusing on just the top five games from each category. The difference is staggering, with the AAA giant towering over its Indie counterpart.
 
+![Revenue - top 5](https://github.com/user-attachments/assets/deba808d-803c-46d4-81fb-099fc584ce3c)
 
-![Revenue - top 5](https://github.com/user-attachments/assets/e4bd6c83-5808-4d43-a181-9d71e5eb3e6e)
 
 Continuing with the revenue performance analysis, a fascinating trend emerges when we examine the relationship between game price and revenue for both Indie and AAA titles. In the scatter plot below, each point represents a game’s price and its corresponding revenue. Excluding two significant outliers— Black Myth: Wukong and HELLDIVERS 2 — a clear pattern emerges: lower-priced games tend to cluster around lower revenue, while higher-priced titles generally generate more substantial returns. However, the highest-earning Indie game, Once Human, is a free-to-play title, demonstrating how alternative monetization strategies can lead to substantial revenue without an upfront cost.
 
