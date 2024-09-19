@@ -66,7 +66,8 @@ AAA games are often strategically released during key moments of the year to max
 Another important aspect of AAA release strategy is tying launches to major gaming conventions and events. Announcing a game during large-scale events like E3, Gamescom, or The Game Awards generates significant buzz, and releasing the game soon after these announcements keeps the momentum going. These carefully timed releases help AAA publishers generate massive waves of attention, driving immediate sales and engagement.
 
 ![gamescom](https://github.com/user-attachments/assets/2e3997ae-5b80-489d-a0af-10aac344e48a)
-_Gamescom 2024_
+
+_Gamescom 2024 (Aug/21 - Aug/25)_
 
 # Heatmaps 
 
