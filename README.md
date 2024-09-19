@@ -1,6 +1,6 @@
 # Comparative Analysis of AAA and Indie Game Publishers on Steam for 2024 Releases
 
-This research aims to conduct a comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), the names of developers and publishers.
+This research aims to conduct an exploratory comparative analysis between AAA and Indie game publishers using data exclusively from the Steam library, focusing on games released between January 1, 2024, and September 9, 2024. The analysis is based on a single comprehensive dataset that includes variables such as game titles, release dates, copies sold, prices, total revenue, average playtime, review scores, publisher classifications (AAA, Indie, etc.), the names of developers and publishers.
 
 The study will graphically represent the main differences between AAA and Indie publishers, examining market trends, sales performance, audience appeal, and critical reception within this specific timeframe. By focusing solely on Steam data, the research will provide insights into how these games perform on one of the largest digital distribution platforms for PC gaming.
 
