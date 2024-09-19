@@ -81,14 +81,12 @@ The graph below clearly shows that Black Myth: Wukong's release near Gamescom in
 As shown in the following graph, there is a pronounced spike in AAA game releases during March, followed by a significant drop in subsequent months. This pattern is not coincidental but a deliberate strategy employed by publishers to maximize visibility and financial performance. March has historically been a key release window due to the fiscal year-end for many companies, allowing publishers to boost their financial results before closing their books, contributing to the surge in releases. Additionally, March offers less competition compared to the crowded holiday season, giving publishers a prime opportunity to capture media attention and consumer interest.
 
 
-![releases by release date AAA](https://github.com/user-attachments/assets/179c3f2f-8ec9-4e31-9552-cd654bb363b4)
+![releases by release date AAA](https://github.com/user-attachments/assets/d0b5bffa-e7b9-4e37-8ae6-a37a945b7f02)
 
 
-Texto sobre a sazonalidade (ou falta dela) do mercado indie
+Indie games were released consistently throughout the year, with no significant seasonal spikes like in AAA titles. This suggests that Indie developers do not rely as heavily on major events or specific release windows, likely due to the lack of accessibility to the large-scale marketing and promotional opportunities that major industry events, like E3 or Gamescom, offer to bigger studios. Instead, Indie developers focus on a steady stream of releases to maintain visibility in a crowded market, relying more on organic growth, niche communities, and digital platforms for exposure. Additionally, since Indie games are produced by a wide variety of publishers and small teams, the sheer number of releases helps maintain a balanced release pattern throughout the year, contributing to the overall consistency seen in the graph.
 
-
-![revenue by release date Indie](https://github.com/user-attachments/assets/191371b0-925a-4032-bb9c-a4bed0f7e2e5)
-
+![releases by release date Indie](https://github.com/user-attachments/assets/d1fe70a6-0601-408a-a550-5ff0345d4edc)
 
 # Heatmaps 
 
