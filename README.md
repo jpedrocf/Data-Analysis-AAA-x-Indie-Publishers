@@ -73,8 +73,7 @@ As mentioned before, AAA publishers often align their releases with major gaming
 
 ![revenue by release date AAA](https://github.com/user-attachments/assets/e3af36d4-e573-44f9-98c4-34237c06bbf0)
 
-
-![revenue by release date Indie](https://github.com/user-attachments/assets/95e5b672-a51b-4010-baaa-0435cd0eff7b)
+![revenue by release date Indie](https://github.com/user-attachments/assets/191371b0-925a-4032-bb9c-a4bed0f7e2e5)
 
 
 # Heatmaps 
