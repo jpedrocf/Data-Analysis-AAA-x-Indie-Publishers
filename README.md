@@ -33,7 +33,7 @@ _Indie Game - Nohra_
 Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
 ##
-The following chart highlights the significant difference in the number of releases between AAA and Indie games in 2024, showing that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
+The following chart highlights the mon difference in the number of releases between AAA and Indie games in 2024, showing that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
 
 
 ![Distribution Publisher](https://github.com/user-attachments/assets/5af89553-eac8-4649-8817-f177399fe1f1)
@@ -45,7 +45,7 @@ The following chart highlights the significant difference in the number of relea
 
 Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to dominate the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their total revenue, approximately $1.5 billion, remains almost double that of Indie games, which generated around $880 million.
 
-One standout example of this financial disparity is Black Myth: Wukong, a AAA title that alone has generated over $830 million in revenue—nearly matching the entire revenue of the Indie market. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games, underscoring the formidable financial muscle of AAA studios.
+One standout example of this financial disparity is Black Myth: Wukong, a AAA title that alone has generated over $830 million in revenue—nearly matching the entire revenue of the Indie market. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this monstruous contrast in total revenue between AAA and Indie games, underscoring the formidable financial muscle of AAA studios.
 
 ![Revenue - all data](https://github.com/user-attachments/assets/7c53b2c8-6116-4aea-82ab-a7a8cf5cbfcf)
 
