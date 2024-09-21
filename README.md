@@ -93,8 +93,12 @@ Indie games were released consistently throughout the year, with no significant 
 
 # Public Appeal: Review Scores
 
+Review scores are a key indicator of both critical and public reception in the gaming industry. They provide insight into how well a game resonates with its audience, from gameplay mechanics to storytelling and technical performance. By comparing review scores between AAA and Indie games, we can gain a deeper understanding of the overall quality, consistency, and variability within each publisher class. The following boxplot illustrates the distribution of review scores, offering a visual comparison between AAA and Indie titles.
 
-![boxplot review scores](https://github.com/user-attachments/assets/450e948d-870e-40c7-8261-a8181e18d016)
+![boxplot review scores](https://github.com/user-attachments/assets/2ddd945f-5cad-4651-86ce-93bab1a9dd0b)
+
+The median review scores for AAA and Indie games are surprisingly similar, showing that both can produce titles that resonate with players and critics. Indie games, however, have more variability and lower-scoring outliers due to the large number of releases on platforms like Steam.
+Despite this, both AAA and Indie games are capable of achieving high review scores, proving that each can deliver standout titles that captivate players.
 
 #
 
