@@ -97,7 +97,7 @@ Review scores are a key indicator of both critical and public reception in the g
 
 ![boxplot review scores](https://github.com/user-attachments/assets/2ddd945f-5cad-4651-86ce-93bab1a9dd0b)
 
-The median review scores for AAA and Indie games are surprisingly similar, showing that both can produce titles that resonate with players and critics. Indie games, however, have more variability and lower-scoring outliers due to the large number of releases on platforms like Steam.
+The median review scores for AAA and Indie games are surprisingly similar, showing that both can produce titles that resonate with players and critics. Indie games, however, have more variability and lower-scoring outliers due to the large number of releases on Steam.
 Despite this, both AAA and Indie games are capable of achieving high review scores, proving that each can deliver standout titles that captivate players.
 
 #
