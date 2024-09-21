@@ -47,12 +47,12 @@ Despite the overwhelming number of Indie game releases in 2024, AAA titles conti
 
 One standout example of this financial disparity is Black Myth: Wukong, a AAA title that alone has generated over $830 million in revenue—nearly matching the entire revenue of the Indie market. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games, underscoring the formidable financial muscle of AAA studios.
 
-![Revenue - all data](https://github.com/user-attachments/assets/15be6782-57c4-4083-a20a-fa0351d168ae)
+![Revenue - all data](https://github.com/user-attachments/assets/7c53b2c8-6116-4aea-82ab-a7a8cf5cbfcf)
 
 
 The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when visualized. In the next chart, you'll see how the Indie "monster" appears much smaller (approximately $150 million) compared to the sheer scale of AAA revenue, especially when focusing on just the top five games from each category. The difference is staggering, with the AAA giant towering over its Indie counterpart.
 
-![Revenue - top 5](https://github.com/user-attachments/assets/deba808d-803c-46d4-81fb-099fc584ce3c)
+![Revenue - top 5](https://github.com/user-attachments/assets/279c21c6-e34f-4801-896c-6de548608627)
 
 
 Continuing with the revenue performance analysis, a fascinating trend emerges when we examine the relationship between game price and revenue for both Indie and AAA titles. In the scatter plot below, each point represents a game’s price and its corresponding revenue. Excluding two significant outliers— Black Myth: Wukong and HELLDIVERS 2 — a clear pattern emerges: lower-priced games tend to cluster around lower revenue, while higher-priced titles generally generate more substantial returns. However, the highest-earning Indie game, Once Human, is a free-to-play title, demonstrating how alternative monetization strategies can lead to substantial revenue without an upfront cost.
