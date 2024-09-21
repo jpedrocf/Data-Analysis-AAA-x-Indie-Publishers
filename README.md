@@ -42,12 +42,15 @@ The following chart highlights the significant difference in the number of relea
 
 # Revenue Performance
 
-Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to be the monster of the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their total revenue, approximately $1.5 billion, remains almost double that of Indie games, approximately $880 million. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games.
+
+Despite the overwhelming number of Indie game releases in 2024, AAA titles continue to dominate the gaming market when it comes to revenue generation. While Indie games offer diversity and creativity, the financial power of AAA studios cannot be ignored. Even with only 4 out of every 100 games released coming from AAA publishers, their total revenue, approximately $1.5 billion, remains almost double that of Indie games, which generated around $880 million.
+
+One standout example of this financial disparity is Black Myth: Wukong, a AAA title that alone has generated over $830 million in revenue—nearly matching the entire revenue of the Indie market. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases, and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this dramatic contrast in total revenue between AAA and Indie games, underscoring the formidable financial muscle of AAA studios.
 
 ![Revenue - all data](https://github.com/user-attachments/assets/15be6782-57c4-4083-a20a-fa0351d168ae)
 
 
-The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. Black Myth: Wukong, a standout AAA title (with a revenue over $830 million), single-handedly generates almost as much as the entire Indie market. This showcases just how formidable the financial muscle of AAA studios is. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when visualized. In the next chart, you'll see how the Indie "monster" appears much smaller (approximately $150 million) compared to the sheer scale of AAA revenue, especially when focusing on just the top five games from each category. The difference is staggering, with the AAA giant towering over its Indie counterpart.
+The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when visualized. In the next chart, you'll see how the Indie "monster" appears much smaller (approximately $150 million) compared to the sheer scale of AAA revenue, especially when focusing on just the top five games from each category. The difference is staggering, with the AAA giant towering over its Indie counterpart.
 
 ![Revenue - top 5](https://github.com/user-attachments/assets/deba808d-803c-46d4-81fb-099fc584ce3c)
 
@@ -87,6 +90,21 @@ As shown in the following graph, there is a pronounced spike in AAA game release
 Indie games were released consistently throughout the year, with no significant seasonal spikes like in AAA titles. This suggests that Indie developers do not rely as heavily on major events or specific release windows, likely due to the lack of accessibility to the large-scale marketing and promotional opportunities that major industry events, like E3 or Gamescom, offer to bigger studios. Instead, Indie developers focus on a steady stream of releases to maintain visibility in a crowded market, relying more on organic growth, niche communities, and digital platforms for exposure. Additionally, since Indie games are produced by a wide variety of publishers and small teams, the sheer number of releases helps maintain a balanced release pattern throughout the year, contributing to the overall consistency seen in the graph.
 
 ![releases by release date Indie](https://github.com/user-attachments/assets/d1fe70a6-0601-408a-a550-5ff0345d4edc)
+
+# Public Appeal: Review Scores
+
+
+![boxplot review scores](https://github.com/user-attachments/assets/450e948d-870e-40c7-8261-a8181e18d016)
+
+#
+
+![scatter plot review scores](https://github.com/user-attachments/assets/51e9a92b-48bb-4482-85eb-8aba48deeb07)
+
+This scatter plot demonstrates the relationship between review scores and average playtime for both Indie and AAA games. Notably, Indie games exhibit a wider range of average playtimes, with some surpassing even AAA games. One possible explanation is that Indie games, often being less complex in terms of graphics, gameplay, and on-screen information, tend to fit better into players' routines, allowing for longer and more consistent play sessions. 
+
+
+
+
 
 # Heatmaps 
 
