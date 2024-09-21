@@ -55,11 +55,14 @@ The disparity becomes even more monstrous when we compare only the top five high
 ![Revenue - top 5](https://github.com/user-attachments/assets/279c21c6-e34f-4801-896c-6de548608627)
 
 
-Continuing with the revenue performance analysis, a fascinating trend emerges when we examine the relationship between game price and revenue for both Indie and AAA titles. In the scatter plot below, each point represents a game’s price and its corresponding revenue. Excluding two significant outliers— Black Myth: Wukong and HELLDIVERS 2 — a clear pattern emerges: lower-priced games tend to cluster around lower revenue, while higher-priced titles generally generate more substantial returns. However, the highest-earning Indie game, Once Human, is a free-to-play title, demonstrating how alternative monetization strategies can lead to substantial revenue without an upfront cost.
+Continuing with the revenue performance analysis, interesting trends emerge when we examine the relationship between game prices and revenue for both Indie and AAA titles. In the scatter plot below, each point represents a game’s price and its corresponding revenue. Even when excluding two significant outliers — Black Myth: Wukong and HELLDIVERS 2 — a clear pattern emerges: lower-priced games tend to cluster around lower revenues, while higher-priced titles generally generate more substantial returns.
+
+![scatter plot - AAA (price revenue)](https://github.com/user-attachments/assets/3eceda63-cb61-46e4-9448-55ac0ba5f2ea)
 
 
-![scatter plot - AAA (price revenue)](https://github.com/user-attachments/assets/37a80dfb-f7e3-4bfe-a13e-f86cd8b0fe03)
-![scatter plot - Indie (price revenue)](https://github.com/user-attachments/assets/5e8c6bfc-9ca8-47cc-967e-71dafa7bcfd4)
+However, the most remarkable aspect of the Indie market lies in its flexible and innovative monetization strategies. A prime example is Once Human, the highest-grossing Indie game, which adopts a free-to-play model. This demonstrates how alternative monetization strategies can lead to significant revenue without an upfront cost. This approach, increasingly common in the Indie scene, highlights how independent developers have the freedom to experiment with new formats, attracting diverse audiences seeking accessible gaming experiences. It’s evident that while AAA games tend to follow more rigid pricing patterns, the Indie market continues to evolve, using creativity and innovation as its key tools to maximize revenue in a highly competitive landscape.
+
+![scatter plot - Indie (price revenue)](https://github.com/user-attachments/assets/3801fa60-ab18-40c1-adbc-077ab3204844)
 
 
 # Release Strategy
