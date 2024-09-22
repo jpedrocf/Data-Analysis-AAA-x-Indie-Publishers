@@ -107,9 +107,7 @@ Despite this, both AAA and Indie games are capable of achieving high review scor
 
 ![scatter plot review scores](https://github.com/user-attachments/assets/51e9a92b-48bb-4482-85eb-8aba48deeb07)
 
-This scatter plot demonstrates the relationship between review scores and average playtime for both Indie and AAA games. Notably, Indie games exhibit a wider range of average playtimes, with some surpassing even AAA games. One possible explanation is that Indie games, often being less complex in terms of graphics, gameplay, and on-screen information, tend to fit better into players' routines, allowing for longer and more consistent play sessions. 
-
-
+This scatter plot demonstrates the relationship between review scores and average playtime for both Indie and AAA games. Notably, Indie games exhibit a wider range of average playtimes, with some surpassing even AAA games. Indie games, typically less complex in terms of graphics, gameplay, and on-screen information, tend to fit better into players' routines, allowing for longer and more consistent play sessions. Another key strategy of indie games is replayability, creating cyclical gameplay that, in a clever way, encourages players to spend more hours playing the same game repeatedly.
 
 
 
