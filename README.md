@@ -72,7 +72,9 @@ However, the most remarkable aspect of the Indie market is its diverse and innov
 
 # Release Strategy
 
-AAA games are often strategically released during key moments of the year to maximize their impact and revenue potential. One common approach is to align game releases with major holiday seasons, such as the end-of-year holiday rush, when consumer spending peaks. Additionally, AAA publishers frequently time their game launches to coincide with the release of related media, such as movies or TV series within the same franchise. For example, a Star Wars game might be launched shortly after a movie or series premieres on Disney+, capitalizing on the renewed interest in the franchise.
+AAA games are often strategically released during key moments of the year to maximize their impact and revenue potential. One common approach is to align game releases with major holiday seasons, such as the end-of-year holiday rush, when consumer spending peaks. Additionally, AAA publishers frequently time their game launches to coincide with the release of related media, such as movies or TV series within the same franchise. An example of this is Star Wars Outlaws, a game that was released between the launches of seasons of a series on Disney+, keeping the franchise fresh in the consumer's mind.
+
+
 
 <img src="https://media.giphy.com/media/7WfjbOXzDqkzixUPIp/giphy.gif" alt="Ubisoft Forward">
 
