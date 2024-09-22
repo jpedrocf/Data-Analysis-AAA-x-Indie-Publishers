@@ -18,7 +18,7 @@ To further illustrate the relationship between key variables, the following corr
 ## But what are AAA and Indie Publishers?
 
 ### AAA Publishers
-AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, sometimes mobile, aiming to reach a broad, global audience.
+AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, sometimes mobile, aiming to reach a broad, global audience.
 
 
 ![NVIDIA GeForce GIF](https://media.giphy.com/media/dv0H4AykXpixbapq6k/giphy.gif)
