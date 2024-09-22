@@ -25,7 +25,7 @@ AAA publishers are large, well-established companies known for producing high-bu
 
 _Black Myth: Wukong_
 
-AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games, and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
+AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
 
 ### Indie Publishers
 Indie publishers, on the other hand, are smaller, independent companies or even individual developers who create games without the backing of major financial resources. Indie games are known for their creativity, unique gameplay mechanics, and willingness to explore unconventional themes. Unlike AAA games, Indie titles are usually developed with much smaller budgets and smaller teams, often resulting in more experimental and innovative gameplay experiences.
