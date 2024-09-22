@@ -8,6 +8,11 @@ Graphical analysis will highlight trends in revenue, pricing, review scores, and
 
 This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how these publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
 
+To further illustrate the relationship between key variables, the following correlation heatmaps provide a side-by-side comparison of how different factors, such as price, revenue, and review scores, interact in both AAA and Indie game releases. These visualizations highlight the distinct patterns in each category, offering deeper insights into the varying market dynamics and player behaviors for these two types of publishers.
+
+<img src="https://github.com/user-attachments/assets/4180a4e9-1c0d-4297-8ee4-e7426f4f5e0d" alt="image" width="500" height="400">
+
+<img src="https://github.com/user-attachments/assets/d2075125-12da-4396-b741-8705692eb605" alt="image" width="500" height="400">
 
 
 ## But what are AAA and Indie Publishers?
@@ -119,46 +124,6 @@ On the other hand, Indie publishers dominate the market in terms of the sheer nu
 Both AAA and Indie games have demonstrated the ability to achieve high review scores, showing that creativity, player engagement, and gameplay quality are not exclusively tied to budget size. While AAA games continue to dominate in terms of revenue, the Indie market’s growing appeal shows the industry's increasing openness to diverse gaming experiences. This study provides a snapshot of the evolving dynamics within the Steam platform, underscoring the complementary roles of AAA and Indie publishers in shaping the future of gaming.
 
 
-# Supporting Material
+# Data Preprocessing
 
-
-
-<img src="https://github.com/user-attachments/assets/4180a4e9-1c0d-4297-8ee4-e7426f4f5e0d" alt="image" width="500" height="400">
-
-<img src="https://github.com/user-attachments/assets/d2075125-12da-4396-b741-8705692eb605" alt="image" width="500" height="400">
-
-
-![Grafico 4 de 100](https://github.com/user-attachments/assets/2741ef5c-c7dd-4bef-83a4-c6386dc7e0ed)
-
-
-
-## **Correlation Heatmap AAA**  
-**Release Date:** AAA games show a less pronounced relationship between release date and other factors, suggesting that the timing of a game’s release has minimal impact on sales and revenue, likely due to established brand loyalty and extensive marketing efforts.
-
-**Copies Sold:** Copies sold have a strong correlation with both price and revenue, showing that sales volume is a critical driver of financial success in the AAA segment. Unlike Indie games, this strong correlation reflects the high stakes of pricing decisions in AAA titles.
-
-**Price:** Price exhibits a robust positive correlation with revenue, indicating that higher prices directly contribute to increased revenue. This reflects the premium nature of AAA games, where high production values allow for higher price points that consumers are willing to pay.
-
-**Revenue:** As expected, revenue is closely tied to both price and copies sold, emphasizing the significant role these factors play in the AAA market. The direct relationship between these variables showcases the predictable financial dynamics of AAA games.
-
-**Average Playtime and Review Score:** There is a noticeable correlation between review scores and average playtime, suggesting that well-received AAA games often offer substantial content. However, unlike Indie games, these scores also have a more visible impact on revenue, indicating that positive critical reception can directly influence financial success.
-
-## **Correlation Heatmap Indie**  
-**Release Date:** Indie games show a stronger correlation of release date with other variables, particularly with copies sold, suggesting that the timing of a game’s release may impact its sales performance more significantly in the Indie market.
-
-**Copies Sold:** For Indie games, copies sold show moderate correlations with price and revenue, indicating that price adjustments might slightly impact sales and revenue generation. However, these correlations are not as strong as in the AAA segment, reflecting a less direct relationship between price setting and sales success.
-
-**Price:** Price does not correlate strongly with other variables, showing that Indie games’ pricing strategies may not be as tightly linked to their revenue or review outcomes. This suggests that pricing for Indie games is more independent of other performance factors compared to AAA titles.
-
-**Revenue:** Revenue in Indie games shows only moderate correlation with copies sold and price, reflecting that other factors beyond these two variables may influence financial performance, such as niche appeal or market positioning. Key strategies that contribute to Indie game revenue include: Direct Sales and Digital Distribution, Post-Launch Monetization, Crowdfunding, Licensing and Merchandising, Events and Trade Shows, Partnerships and Advertising, Subscriptions and Service Models. These strategies collectively enhance the financial performance of Indie games, providing diverse revenue streams beyond just direct sales and pricing.
-
-**Average Playtime and Review Score:** There is a notable correlation between average playtime and review score, suggesting that longer or circular Indie games tend to receive better reviews. However, these scores do not significantly impact revenue or copies sold, indicating that positive player engagement does not necessarily translate to higher sales figures.
-
-## **Comparative Insights**  
-**Impact of Release Date:** Release date plays a more significant role in Indie games, where timing can influence sales, unlike in AAA titles where established brands mitigate this effect.
-
-**Sales and Revenue Drivers:** AAA games exhibit stronger correlations between price, sales, and revenue, highlighting the importance of pricing strategies and sales volume. In contrast, Indie games display a more nuanced relationship, suggesting other factors, such as community support or niche appeal, contribute to their financial outcomes.
-
-**Engagement and Reviews:** Both segments show positive correlations between average playtime and review scores, but the impact on revenue and sales is more pronounced in AAA games. This indicates that while both AAA and Indie games benefit from positive player engagement, AAA titles can leverage good reviews more effectively for financial gain.
-
-Overall, the heatmaps underscore the differing market dynamics between AAA and Indie games, with AAA titles relying heavily on sales volume and pricing, while Indie games navigate a more complex landscape of timing, pricing, and player engagement.
+The data preprocessing stage involved thorough cleaning and transformation. I addressed missing values, removed outliers that could distort the analysis, and performed normalization on key numerical variables to ensure consistency across different scales. After cleaning the data, I trained the model using this refined dataset. I have now completed the evaluation phase, where the model's performance was assessed to determine its accuracy and effectiveness in predicting or classifying outcomes based on the data.
