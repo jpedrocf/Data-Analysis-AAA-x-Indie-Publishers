@@ -90,7 +90,8 @@ The data from 2024 highlights a clear trend: as publishers recognized the overwh
 
 Indie games were released consistently throughout the year, with no significant seasonal spikes like in AAA titles. This suggests that Indie developers do not rely as heavily on major events or specific release windows, likely due to the lack of accessibility to the large-scale marketing and promotional opportunities that major industry events, like E3 or Gamescom, offer to bigger studios. Instead, Indie developers focus on a steady stream of releases to maintain visibility in a crowded market, relying more on organic growth, niche communities, and digital platforms for exposure. Additionally, since Indie games are produced by a wide variety of publishers and small teams, the sheer number of releases helps maintain a balanced release pattern throughout the year, contributing to the overall consistency seen in the graph.
 
-![releases by release date Indie](https://github.com/user-attachments/assets/d1fe70a6-0601-408a-a550-5ff0345d4edc)
+![releases by release date Indie](https://github.com/user-attachments/assets/7038768f-f39f-4b4e-b05e-e6891c18fa7b)
+
 
 # Public Appeal: Review Scores
 
