@@ -38,7 +38,7 @@ _Indie Game - Nohra_
 Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
 ##
-The following chart highlights the mon difference in the number of releases between AAA and Indie games in 2024, showing that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
+The following chart highlights the significant difference in the number of releases between AAA and Indie games in 2024, showing that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
 
 
 ![Distribution Publisher](https://github.com/user-attachments/assets/5af89553-eac8-4649-8817-f177399fe1f1)
