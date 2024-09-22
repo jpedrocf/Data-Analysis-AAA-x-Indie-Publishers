@@ -55,7 +55,7 @@ One standout example of this financial disparity is Black Myth: Wukong, a AAA ti
 ![Revenue - all data](https://github.com/user-attachments/assets/7c53b2c8-6116-4aea-82ab-a7a8cf5cbfcf)
 
 
-The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when visualized. In the next chart, you'll see how the Indie "monster" is barely noticeable, given how small it is (approximately $150 million) compared to the sheer scale of AAA revenue, especially when focusing on just the top five games from each category. The difference is staggering, with the AAA giant completely overshadowing its Indie counterpart.
+The disparity becomes even more monstrous when we compare only the top five highest-revenue games from each type of publisher. The widening gap emphasizes the blockbuster nature of AAA releases, where a single title can generate earnings that dwarf the entire Indie spectrum. This extreme revenue difference becomes even more evident when we compare the top five highest-revenue games from each publisher class. The next chart illustrates how the Indie "monster" is barely noticeable, with earnings around $150 million, compared to the sheer scale of AAA revenue. The disparity is staggering, with the AAA giant completely overshadowing its Indie counterpart.
 
 ![Revenue - top 5](https://github.com/user-attachments/assets/279c21c6-e34f-4801-896c-6de548608627)
 
