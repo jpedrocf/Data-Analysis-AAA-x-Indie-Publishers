@@ -112,8 +112,11 @@ This scatter plot demonstrates the relationship between review scores and averag
 
 # Conclusion
 
+This comparative analysis between AAA and Indie game publishers on Steam for 2024 releases highlights key distinctions in how each type of publisher navigates the gaming market. AAA publishers, with their massive budgets, focus on high-profile releases timed around key financial or cultural events, driving substantial revenue despite releasing fewer games. Their success is largely due to blockbuster marketing campaigns, established franchises, and polished production quality, exemplified by the immense financial impact of titles like Black Myth: Wukong.
 
+On the other hand, Indie publishers dominate the market in terms of the sheer number of releases, leveraging platforms like Steam to reach diverse audiences with creative and innovative gameplay experiences. Despite their smaller budgets and fewer resources, Indie games have carved out a significant space in the gaming industry, driven by community engagement, alternative monetization strategies, and replayability. The consistent stream of Indie releases throughout the year, without the reliance on major marketing events, demonstrates their flexibility and adaptability.
 
+Both AAA and Indie games have demonstrated the ability to achieve high review scores, showing that creativity, player engagement, and gameplay quality are not exclusively tied to budget size. While AAA games continue to dominate in terms of revenue, the Indie market’s growing appeal shows the industry's increasing openness to diverse gaming experiences. This study provides a snapshot of the evolving dynamics within the Steam platform, underscoring the complementary roles of AAA and Indie publishers in shaping the future of gaming.
 
 
 
