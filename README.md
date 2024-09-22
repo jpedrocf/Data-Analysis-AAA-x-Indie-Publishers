@@ -82,11 +82,11 @@ _Gamescom 2024 (Aug/21 - Aug/25)_
 
 However, this strategy can be risky when it comes to launching around AAA outliers—games that capture unprecedented levels of attention and break historical records. A prime example of this in 2024 was Black Myth: Wukong, which set a historic record for sales and concurrent players. Released during Gamescom, Wukong's launch dominated the market, drawing immense media coverage and player interest worldwide. Competing directly with a game of this magnitude poses a significant risk for other AAA publishers, as even well-established titles could struggle to gain traction amidst such overwhelming competition.
 
-![revenue by release date AAA](https://github.com/user-attachments/assets/e3af36d4-e573-44f9-98c4-34237c06bbf0)
+![revenue by release date AAA](https://github.com/user-attachments/assets/f058ce2a-d757-4e03-b1fa-cf4d7b1ca7ba)
 
 The data from 2024 highlights a clear trend: as publishers recognized the overwhelming market presence of Wukong, many chose to delay or avoid releases in the same window to prevent reduced visibility and sales. This illustrates the calculated risks in timing AAA launches, especially when contending with industry-shifting outliers. The following graph shows a sharp spike in AAA releases during March, a strategic move by publishers to maximize visibility and financial performance. March, aligned with many companies' fiscal year-end, allows publishers to boost financial results and avoid the competitive holiday season, making it an ideal release window.
 
-![releases by release date AAA](https://github.com/user-attachments/assets/d0b5bffa-e7b9-4e37-8ae6-a37a945b7f02)
+![releases by release date AAA](https://github.com/user-attachments/assets/ddc56395-9729-482c-b9b4-4b520051d092)
 
 Indie games were released consistently throughout the year, with no significant seasonal spikes like in AAA titles. This suggests that Indie developers do not rely as heavily on major events or specific release windows, likely due to the lack of accessibility to the large-scale marketing and promotional opportunities that major industry events, like E3 or Gamescom, offer to bigger studios. Instead, Indie developers focus on a steady stream of releases to maintain visibility in a crowded market, relying more on organic growth, niche communities, and digital platforms for exposure. Additionally, since Indie games are produced by a wide variety of publishers and small teams, the sheer number of releases helps maintain a balanced release pattern throughout the year, contributing to the overall consistency seen in the graph.
 
