@@ -16,9 +16,9 @@ This approach will offer a timely snapshot of the 2024 gaming market on Steam, i
 AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay, and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, sometimes mobile, aiming to reach a broad, global audience.
 
 
-<img src="https://media.giphy.com/media/7WfjbOXzDqkzixUPIp/giphy.gif" alt="Ubisoft Forward">
+![NVIDIA GeForce GIF](https://media.giphy.com/media/dv0H4AykXpixbapq6k/giphy.gif)
 
-_AAA Game - Star Wars Outlaws_
+_Black Myth: Wukong_
 
 AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games, and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
 
@@ -68,6 +68,10 @@ However, the most remarkable aspect of the Indie market lies in its flexible and
 # Release Strategy
 
 AAA games are often strategically released during key moments of the year to maximize their impact and revenue potential. One common approach is to align game releases with major holiday seasons, such as the end-of-year holiday rush, when consumer spending peaks. Additionally, AAA publishers frequently time their game launches to coincide with the release of related media, such as movies or TV series within the same franchise. For example, a Star Wars game might be launched shortly after a movie or series premieres on Disney+, capitalizing on the renewed interest in the franchise.
+
+<img src="https://media.giphy.com/media/7WfjbOXzDqkzixUPIp/giphy.gif" alt="Ubisoft Forward">
+
+_AAA Game - Star Wars Outlaws_
 
 Another important aspect of the AAA release strategy is tying launches to major gaming conventions and events. Announcing a game during large-scale events like E3, Gamescom, or The Game Awards generates significant buzz, and releasing the game soon after these announcements keeps the momentum going. These carefully timed releases help AAA publishers generate massive waves of attention, driving immediate sales and engagement.
 
