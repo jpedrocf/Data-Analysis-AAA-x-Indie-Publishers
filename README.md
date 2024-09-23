@@ -129,3 +129,8 @@ Both AAA and Indie games have demonstrated the ability to achieve high review sc
 # Data Preprocessing
 
 The data preprocessing stage involved thorough cleaning and transformation. I addressed missing values, removed outliers that could distort the analysis, and performed normalization on key numerical variables to ensure consistency across different scales. After cleaning the data, I trained the model using this refined dataset. I have now completed the evaluation phase, where the model's performance was assessed to determine its accuracy and effectiveness in predicting or classifying outcomes based on the data.
+
+![Null Cleaning](https://github.com/user-attachments/assets/14740001-4ebe-42c3-b77c-e0bbabe43737)
+
+_Null Cleaning with missingno_
+
