@@ -128,9 +128,19 @@ Both AAA and Indie games have demonstrated the ability to achieve high review sc
 
 # Data Preprocessing
 
-The data preprocessing stage involved thorough cleaning and transformation. I addressed missing values, removed outliers that could distort the analysis, and performed normalization on key numerical variables to ensure consistency across different scales. After cleaning the data, I trained the model using this refined dataset. I have now completed the evaluation phase, where the model's performance was assessed to determine its accuracy and effectiveness in predicting or classifying outcomes based on the data.
+In this stage, I conducted a comprehensive cleaning and transformation of the dataset. The goal was to ensure that the data was prepared for accurate analysis and model training. To achieve this, I addressed missing values, eliminated outliers that could potentially skew the results and normalized key numerical variables to bring consistency across different scales.
+
+One of the critical maintenance tasks performed was the handling of missing data, as demonstrated below:
+
 
 ![Null Cleaning](https://github.com/user-attachments/assets/14740001-4ebe-42c3-b77c-e0bbabe43737)
 
 _Null Cleaning with missingno_
 
+During the model training phase, I first separated the features (X) and the target variable (y), where the target was the reviewScoreClass, a classification label derived from the game's review score. The data was split into training and test sets using an 80%-20% split to ensure a robust evaluation of the model's performance on unseen data. Before training, the feature set was scaled to normalize the data, enhancing the performance and convergence of the algorithm.
+
+I then trained a RandomForestClassifier with a predefined random state to ensure reproducibility. After training, predictions were made on the test set, marking the completion of the training process.
+
+In the evaluation phase, the model was assessed through various metrics. The confusion matrix provided an overview of the true positive, false positive, true negative, and false negative predictions, helping to identify potential misclassifications across different classes. Additionally, the accuracy score indicated that the model correctly predicted the outcome for approximately 62.5% of the test cases. Finally, a classification report was generated, detailing precision, recall, and F1-score for each class, giving a comprehensive view of the model's performance in terms of balancing precision and recall across classes.
+
+This evaluation highlights both the model's strengths and areas where further tuning may improve overall performance.
