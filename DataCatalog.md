@@ -15,4 +15,4 @@
 | Steam ID         | Integer      | The unique identifier of the game on Steam.      |
 | Playtime per Day | Float        | Average playtime per day since the game's release, calculated by dividing the total average playtime by the number of days since release. |
 | Release Days Count | Integer    | Number of days since the game's release date.    | 
-| Review Score Class | String | The class of the Review Score (Low - 0 to 60 Medium - 61 to 80 High - 81 to 100|
+| Review Score Class | String | The class of the Review Score (Low - 0 to 60 , Medium - 61 to 80 , High - 81 to 100)|
