@@ -23,7 +23,7 @@ AAA publishers are large, well-established companies known for producing high-bu
 
 ![NVIDIA GeForce GIF](https://media.giphy.com/media/dv0H4AykXpixbapq6k/giphy.gif)
 
-_Black Myth: Wukong_
+_AAA Game - Black Myth: Wukong_
 
 AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
 
