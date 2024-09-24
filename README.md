@@ -8,7 +8,7 @@ Graphical analysis will highlight trends in revenue, pricing, review scores, and
 
 This approach will offer a timely snapshot of the 2024 gaming market on Steam, illustrating how these publishers navigate the platform to capture audience interest and achieve commercial success. The data underscores how evolving market dynamics and the appeal of creative freedom are empowering smaller developers to make a mark in the gaming industry.
 
-To further illustrate the relationship between key variables, the following correlation heatmaps provide a side-by-side comparison of how different factors, such as price, revenue, and review scores, interact in both AAA and Indie game releases. These visualizations highlight the distinct patterns in each category, offering deeper insights into the varying market dynamics and player behaviors for these two types of publishers.
+To better illustrate the relationship between key variables, the following correlation heatmaps were used to generate insights that guided the creation of further graphs and analyses throughout this work. They provide a side-by-side comparison of how different factors interact in both AAA and Indie game releases. These visualizations highlight distinct patterns in each category, offering deeper insights into varying market dynamics and player behavior, which will be further explored in the following sections.
 
 <img src="https://github.com/user-attachments/assets/4180a4e9-1c0d-4297-8ee4-e7426f4f5e0d" alt="image" width="500" height="400">
 
