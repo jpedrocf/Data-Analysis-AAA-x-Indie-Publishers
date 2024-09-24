@@ -88,7 +88,7 @@ Another important aspect of the AAA release strategy is tying launches to major 
 _Gamescom 2024_
 
 
-However, this strategy can be risky when it comes to launching around AAA outliers—games that capture unprecedented levels of attention and break historical records. A prime example of this in 2024 was Black Myth: Wukong, which set a historic record for sales and concurrent players. Released during Gamescom (Aug/21), Wukong's launch dominated the market, drawing immense media coverage and player interest worldwide. Competing directly with a game of this magnitude poses a significant risk for other AAA publishers, as even well-established titles could struggle to gain traction amidst such overwhelming competition.
+However, this strategy can be risky when it comes to launching around AAA outliers—games that capture unprecedented levels of attention and break historical records. A prime example of this in 2024 was Black Myth: Wukong, which set a historic record for sales and concurrent players. Released during Gamescom (Aug/21), Wukong's launch dominated the market, drawing immense media coverage and player interest worldwide, as seen in the dramatic revenue spike in late August on the chart below. Competing directly with a game of this magnitude poses a significant risk for other AAA publishers, as even well-established titles could struggle to gain traction amidst such overwhelming competition.
 
 ![revenue by release date AAA](https://github.com/user-attachments/assets/f058ce2a-d757-4e03-b1fa-cf4d7b1ca7ba)
 
