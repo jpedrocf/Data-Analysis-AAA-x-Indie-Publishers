@@ -18,14 +18,14 @@ To better illustrate the relationship between key variables, the following corre
 ## But what are AAA and Indie Publishers?
 
 ### AAA Publishers
-AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft, and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, sometimes mobile, aiming to reach a broad, global audience.
+AAA publishers are large, well-established companies known for producing high-budget, high-profile games. These games typically have extensive development teams, significant marketing budgets, and high production values, resulting in polished graphics, detailed gameplay and cinematic storytelling. Examples of AAA publishers include companies like Electronic Arts (EA), Ubisoft and Activision Blizzard. AAA games are often released across multiple platforms, including PC, consoles, sometimes mobile, aiming to reach a broad, global audience.
 
 
 ![NVIDIA GeForce GIF](https://media.giphy.com/media/dv0H4AykXpixbapq6k/giphy.gif)
 
 _AAA Game - Black Myth: Wukong_
 
-AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders, and early access releases.
+AAA titles are characterized by their focus on achieving high sales volumes, often through mainstream appeal, franchise development and leveraging popular genres like first-person shooters, sports games and open-world adventures. Due to their massive budgets, these games are generally expected to perform well commercially, and their success is often driven by extensive marketing campaigns, pre-orders and early access releases.
 
 ### Indie Publishers
 Indie publishers, on the other hand, are smaller, independent companies or even individual developers who create games without the backing of major financial resources. Indie games are known for their creativity, unique gameplay mechanics and willingness to explore unconventional themes. Unlike AAA games, Indie titles are usually developed with much smaller budgets and smaller teams, often resulting in more experimental and innovative gameplay experiences.
@@ -38,7 +38,8 @@ _Indie Game - Nohra_
 Indie games have gained popularity thanks to digital platforms like Steam, which allow developers to reach audiences directly without needing the extensive marketing budgets typical of AAA games. Indie publishers often rely on word-of-mouth, social media and community engagement to promote their games. This model allows for more creative freedom but also comes with higher financial risks since the games don’t have the same guaranteed market presence as AAA titles.
 
 ##
-The following chart highlights the significant difference in the number of releases between AAA and Indie games in 2024, showing that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
+
+The following chart highlights the significant difference in the number of releases between AAA and Indie games in 2024, with 52 AAA and 1301 Indie releases. This means that only 4 out of every 100 games released are from AAA studios. This disparity not only reflects the accessibility provided by platforms like Steam mentioned before but also the growing preference among players for diverse and innovative gaming experiences.
 
 
 ![Distribution Publisher](https://github.com/user-attachments/assets/5af89553-eac8-4649-8817-f177399fe1f1)
