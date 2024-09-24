@@ -56,7 +56,7 @@ One standout example of this financial disparity is Black Myth: Wukong, a AAA ti
 ![Revenue - all data](https://github.com/user-attachments/assets/7c53b2c8-6116-4aea-82ab-a7a8cf5cbfcf)
 
 
-The disparity becomes even more monstrous when we compare the top five highest-revenue publishers from each category. The AAA 'monster' continues to dominate with approximately $1.5 billion in revenue, with nearly the entire amount concentrated among just five major publishers. This highlights how the financial success of the AAA category is overwhelmingly driven by a small number of industry giants. This extreme revenue difference becomes even more apparent in the next chart, where the Indie 'monster,' with earnings around $150 million, is barely noticeable compared to the towering scale of the AAA revenue. The contrast is staggering, as the AAA giants completely overshadow their Indie counterparts.
+The disparity becomes even more monstrous when we compare the top five highest-revenue publishers from each category. The AAA 'monster' continues to dominate with approximately $1.5 billion in revenue, showing that nearly the entire amount is concentrated among just five major publishers. This highlights how the financial success of the AAA category is overwhelmingly driven by a small number of industry giants. This extreme revenue difference becomes even more apparent in the next chart, where the Indie 'monster,' with earnings around $150 million, is barely noticeable compared to the towering scale of the AAA revenue. The contrast is staggering, as the AAA giants completely overshadow their Indie counterparts.
 
 ![Revenue - top 5](https://github.com/user-attachments/assets/929c5326-5784-4c6e-a9c3-8344a9029464)
 
