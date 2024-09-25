@@ -51,7 +51,7 @@ Despite the overwhelming number of Indie game releases in 2024, AAA titles conti
 
 One standout example of this financial disparity is Black Myth: Wukong, a AAA title that alone has generated over $830 million in revenue—nearly matching the entire revenue of the Indie market. This monster-like revenue gap highlights the substantial influence of massive marketing budgets, established fanbases and blockbuster-level production quality that AAA games bring to the table. The following chart illustrates this monstruous contrast in total revenue between AAA and Indie games, underscoring the formidable financial muscle of AAA studios.
 
-![Revenue - all data](https://github.com/user-attachments/assets/da31c79d-fa86-4a25-bdb5-2fd99686c7c7)
+![Revenue - all data](https://github.com/user-attachments/assets/2c44d9be-6f9f-46ed-9f47-56b1e00597eb)
 
 
 The disparity becomes even more monstrous when we compare the top five highest-revenue publishers from each category. The AAA 'monster' continues to dominate with approximately $1.5 billion in revenue, showing that nearly the entire amount is concentrated among just five major publishers, highlighting how the financial success of the AAA category is overwhelmingly driven by a small number of industry giants. This extreme revenue difference becomes even more apparent in the next chart, where the Indie 'monster,' with earnings around $150 million, is barely noticeable compared to the towering scale of the AAA revenue. The contrast is staggering, as the AAA giants completely overshadow their Indie counterparts.
