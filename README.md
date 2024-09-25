@@ -143,3 +143,7 @@ I then trained a RandomForestClassifier with a predefined random state to ensure
 In the evaluation phase, the model was assessed through various metrics. The confusion matrix provided an overview of the true positive, false positive, true negative, and false negative predictions, helping to identify potential misclassifications across different classes. Additionally, the accuracy score indicated that the model correctly predicted the outcome for approximately 62.5% of the test cases. Finally, a classification report was generated, detailing precision, recall, and F1-score for each class, giving a comprehensive view of the model's performance in terms of balancing precision and recall across classes.
 
 This evaluation highlights both the model's strengths and areas where further tuning may improve overall performance.
+
+<img src="https://pa1.aminoapps.com/6496/9b8856a1cbfa03a0603d54f2db3c315f8fdd1944_hq.gif" width="100" alt="Undertale GIF">
+
+
