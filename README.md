@@ -144,6 +144,10 @@ In the evaluation phase, the model was assessed through various metrics. The con
 
 This evaluation highlights both the model's strengths and areas where further tuning may improve overall performance.
 
+##
+
+*I hope this material has helped the reader better understand the gaming market in 2024, up until September. I would like to thank my professors for their support throughout my journey. Goodbye!*
+
 <img src="https://pa1.aminoapps.com/6496/9b8856a1cbfa03a0603d54f2db3c315f8fdd1944_hq.gif" width="100" alt="Undertale GIF">
 
 
