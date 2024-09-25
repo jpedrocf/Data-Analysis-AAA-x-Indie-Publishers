@@ -56,7 +56,7 @@ One standout example of this financial disparity is Black Myth: Wukong, a AAA ti
 
 The disparity becomes even more monstrous when we compare the top five highest-revenue publishers from each category. The AAA 'monster' continues to dominate with approximately $1.5 billion in revenue, showing that nearly the entire amount is concentrated among just five major publishers, highlighting how the financial success of the AAA category is overwhelmingly driven by a small number of industry giants. This extreme revenue difference becomes even more apparent in the next chart, where the Indie 'monster,' with earnings around $150 million, is barely noticeable compared to the towering scale of the AAA revenue. The contrast is staggering, as the AAA giants completely overshadow their Indie counterparts.
 
-![Revenue - top 5](https://github.com/user-attachments/assets/929c5326-5784-4c6e-a9c3-8344a9029464)
+![Revenue - top 5](https://github.com/user-attachments/assets/dd67cf39-00f2-4ddf-9aab-a61388899c87)
 
 
 Continuing with the revenue performance analysis, interesting trends emerge when we examine the relationship between game prices and revenue for both Indie and AAA titles. In the scatter plot below, each point represents a game’s price and its corresponding revenue. Even when excluding two significant outliers — Black Myth: Wukong and HELLDIVERS 2 — a clear pattern emerges: lower-priced games tend to cluster around lower revenues, while higher-priced titles generally generate more substantial returns.
