@@ -1,6 +1,6 @@
 # Data Catalog
 
-| Column           | Type         | Description                                      |
+| Column           | Type         | Description                                      | 
 |------------------|--------------|--------------------------------------------------|
 | Name             | String       | The title of the game.                           |
 | Release Date     | Date         | The release date of the game.                    |
